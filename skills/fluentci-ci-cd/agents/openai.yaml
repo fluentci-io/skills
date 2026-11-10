@@ -1,0 +1,4 @@
+interface:
+  display_name: "FluentCI CLI"
+  short_description: "Inspect and run FluentCI modules and workflows"
+  default_prompt: "Use $fluentci-ci-cd to inspect this project and run its requested CI job."

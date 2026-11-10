@@ -1,0 +1,4 @@
+interface:
+  display_name: "FluentCI Modules"
+  short_description: "Build typed Wasm modules and manage dependencies"
+  default_prompt: "Use $fluentci-wasm-modules to create a typed FluentCI component for this project."

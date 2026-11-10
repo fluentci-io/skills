@@ -1,0 +1,4 @@
+interface:
+  display_name: "FluentCI Execution"
+  short_description: "Design native DAG plans, caches, and affected runs"
+  default_prompt: "Use $fluentci-dag-caching to preview and improve this native task plan."

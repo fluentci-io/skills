@@ -1,0 +1,4 @@
+interface:
+  display_name: "FluentCI Services"
+  short_description: "Manage CI services, readiness checks, and cleanup"
+  default_prompt: "Use $fluentci-ci-services to run this test suite with its required services."

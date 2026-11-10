@@ -1,0 +1,4 @@
+interface:
+  display_name: "FluentCI Workflows"
+  short_description: "Maintain workflows, event triggers, and CI exports"
+  default_prompt: "Use $fluentci-ci-workflows to configure CI workflows and export the selected provider."
